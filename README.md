@@ -46,7 +46,6 @@ This repo follows the structure:
 ├── theorical
 │   └── theo.go
 ├── go.mod
-├── main.go
 ├── Makefile
 ├── NOTES.md
 └── README.md
